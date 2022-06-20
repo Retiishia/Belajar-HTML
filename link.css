@@ -1,0 +1,48 @@
+a{
+  text-decoration: none;
+}
+
+body{
+  background: url('822133.png');
+   no-repeat fixed;
+  -webkit-background-size : 100%;
+  -moz-background-size : 100%;
+  -o-background-size : 100%;
+   background-size: 100%;
+}
+
+#warna1{
+  color: red;
+}
+#warna2{
+  color: blue;
+}
+#warna3{
+  color: orange;
+}
+#warna4{
+  color: black;
+  }
+#warna5{
+  color: orange;
+}
+#warna6{
+  color: pink;
+}
+#warna7{
+  color: grey;
+}
+#warna8{
+  color: green;
+}
+#warna9{
+  color: grey;
+}
+#warna10{
+  color: blue;
+}
+#warna11{
+  color: pink;
+}
+
+
